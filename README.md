@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como [Engenheiro de Dados](https://www.linkedin.com/company/justa-solucoes-financeiras/mycompany/)
 
-- 🌱 Atualmente estou estudando **Python e Soluções em Cloud da AWS**
+- 🌱 Estou estudando **Python e Soluções em Cloud da AWS**
 
 - 💬 Me pergunte sobre **Banco de dados (SQL), Businesses Intelligence (Power B.I) e Cálculos Financeiros**
 
