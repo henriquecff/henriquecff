@@ -1,7 +1,7 @@
 <h1 align="center">E ai, sou o Henrique Feliciano 👋</h1>
 <h3 align="center">Apaixonado por Engenharia, Ciência e Análise de Dados no mundo digital</h3>
 
-- 🔭 Atualmente estou trabalhando como [Engenheiro de Dados](https://www.linkedin.com/company/justa-solucoes-financeiras/mycompany/)
+- 🔭 Atualmente estou trabalhando como [Data Tech Lead](https://www.linkedin.com/company/justa-solucoes-financeiras/mycompany/)
 
 - 🌱 Estou estudando **Python e Soluções em Cloud da AWS**
 
