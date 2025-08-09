@@ -1,7 +1,7 @@
 <h1 align="center">E ai, sou o Henrique Feliciano 👋</h1>
 <h3 align="center">Especialista em Engenharia de Dados, Business Intelligence e Inteligência Artificial.</h3>
 
-🚀 Fui sócio da Justa, onde liderei a área de dados e participei diretamente da venda da empresa para o BTG Pactual, onde atuo atualmente como Data Tech Lead, liderando iniciativas de governança, automação e análise avançada de dados.
+🚀 Fui sócio da Justa, onde liderei a área de dados e participei diretamente da venda da empresa para o BTG Pactual, onde atuo atualmente como Tech Analyst, liderando iniciativas de engenharia, governança, automação e análise avançada de dados.
 
 🔍 Experiência sólida em Data Engineering, Analytics, Cloud (AWS), BI (Power BI) e cálculos financeiros, conectando dados a decisões estratégicas.
 
