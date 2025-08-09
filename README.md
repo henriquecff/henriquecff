@@ -6,6 +6,7 @@
 🔍 Experiência sólida em Data Engineering, Analytics, Cloud (AWS), BI (Power BI) e cálculos financeiros, conectando dados a decisões estratégicas.
 
 📫 Contato: **hcfdata.ai@gmail.com**
+
 📄 Mais sobre minha trajetória:s [https://www.linkedin.com/in/henrique-feliciano3006/](https://www.linkedin.com/in/henrique-feliciano3006/)
 
 <h3 align="left">Connect with me:</h3>
