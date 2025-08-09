@@ -1,15 +1,12 @@
 <h1 align="center">E ai, sou o Henrique Feliciano 👋</h1>
-<h3 align="center">Apaixonado por Engenharia, Ciência e Análise de Dados no mundo digital</h3>
+<h3 align="center">Especialista em Engenharia de Dados, Business Intelligence e Inteligência Artificial.</h3>
 
-- 🔭 Atualmente estou trabalhando como [Data Tech Lead](https://www.linkedin.com/company/justa-solucoes-financeiras/mycompany/)
+🚀 Fui sócio da Justa, onde liderei a área de dados e participei diretamente da venda da empresa para o BTG Pactual, onde atuo atualmente como Data Tech Lead, liderando iniciativas de governança, automação e análise avançada de dados.
 
-- 🌱 Estou estudando **Python e Soluções em Cloud da AWS**
+🔍 Experiência sólida em Data Engineering, Analytics, Cloud (AWS), BI (Power BI) e cálculos financeiros, conectando dados a decisões estratégicas.
 
-- 💬 Me pergunte sobre **Banco de dados (SQL), Businesses Intelligence (Power B.I) e Cálculos Financeiros**
-
-- 📫 Você me acha através do e-mail **hnrque.feliciano@gmail.com**
-
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/henrique-feliciano3006/](https://www.linkedin.com/in/henrique-feliciano3006/)
+📫 Contato: **hcfdata.ai@gmail.com**
+📄 Mais sobre minha trajetória:s [https://www.linkedin.com/in/henrique-feliciano3006/](https://www.linkedin.com/in/henrique-feliciano3006/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
