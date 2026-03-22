@@ -1,8 +1,8 @@
-Data Engineering | Payments & Financial Systems
+### Data Engineering | Payments & Financial Systems
 
 Working with data pipelines, financial data processing and analytics in fintech environments.
 
-## Stack
+#### Stack
 - SQL (PostgreSQL, Athena)
 - Python
 - AWS (S3, Lambda, Step Functions, Glue)
@@ -10,7 +10,7 @@ Working with data pipelines, financial data processing and analytics in fintech 
 - Power BI
 - C# (.NET)
 
-## Interests
+#### Interests
 - Data Engineering
 - Financial Data (payments, receivables, reconciliation)
 - Data architecture (Lakehouse)
