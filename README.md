@@ -1,17 +1,18 @@
-<h1 align="center">E ai, sou o Henrique Feliciano 👋</h1>
-<h3 align="center">Especialista em Engenharia de Dados, Business Intelligence e Inteligência Artificial.</h3>
+Data Engineering | Payments & Financial Systems
 
-🚀 Fui sócio da Justa, onde liderei a área de dados e participei diretamente da venda da empresa para o BTG Pactual, onde atuo atualmente como Tech Analyst, liderando iniciativas de engenharia, governança, automação e análise avançada de dados.
+Working with data pipelines, financial data processing and analytics in fintech environments.
 
-🔍 Experiência sólida em Data Engineering, Analytics, Cloud (AWS), BI (Power BI) e cálculos financeiros, conectando dados a decisões estratégicas.
+## Stack
+- SQL (PostgreSQL, Athena)
+- Python
+- AWS (S3, Lambda, Step Functions, Glue)
+- dbt, Airbyte
+- Power BI
+- C# (.NET)
 
-📫 Contato: **hcfdata.ai@gmail.com**
+## Interests
+- Data Engineering
+- Financial Data (payments, receivables, reconciliation)
+- Data architecture (Lakehouse)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/henrique-feliciano3006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henrique-feliciano3006" height="30" width="40" /></a>
-<a href="https://instagram.com/henriquecf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henriquecf_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Currently working on data solutions for financial operations using C# (.NET) and data pipelines.
